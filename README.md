@@ -13,6 +13,10 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+[![Website](https://img.shields.io/badge/🌐_Website-winningcircle.io-0A66C2?style=for-the-badge)](https://www.winningcircle.io/)
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.winningcircleacademy.mobile)
+[![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/tr/app/winningcircle/id6744279054?l=tr)
+
 > A production-grade, five-component online trading education ecosystem built across mobile, web, and admin surfaces. The platform delivers structured video courses with DRM protection, live streaming, TradingView indicator access management, AI-powered financial news digests, mentorship programmes, a full Stripe subscription engine, affiliate tracking, Telegram bot integration, and automated PDF document generation — all served from a single Spring Boot API backing React web/admin SPAs and a Flutter mobile app.
 
 ---
